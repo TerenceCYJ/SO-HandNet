@@ -15,7 +15,6 @@ ICCV 2019
 ## Usage
 ### Data Preprocessing
 Download ICVL dataset, and use matlab scripts to process the data (transfrom depth map into point cloud).
-  [BaiduNetDesk Link](https://pan.baidu.com/s/1V8hLca_OBv5fGeR0iqhQEw)
 	
 	matlab ICVL_train_process.m
 	matlab ICVL_test_process.m
