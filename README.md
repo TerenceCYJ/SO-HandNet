@@ -47,3 +47,12 @@ Change "train_label_ratio" as the ratio of labeled frames used for training, and
 	python ICVL_semi_en_de.py
 	python ICVL_semi_en_es.py
 	python ICVL_semi_train_all.py
+
+## References
+Here are some great resources we benefit:
+
+[Hand PointNet](https://sites.google.com/site/geliuhaontu/home/cvpr2018)
+
+[SO-Net](https://github.com/lijx10/SO-Net)
+
+[PointNet](https://github.com/charlesq34/pointnet)
