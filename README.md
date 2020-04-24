@@ -10,8 +10,7 @@ ICCV 2019
 	conda install pytorch torchvision cudatoolkit=8.0 -c pytorch
 	conda install faiss-gpu -c pytorch
 	pip install --upgrade pip
-	pip install numba matplotlib h5py scipy donimate visdom horound libnccl2 libnccl-dev tqdm
-
+requirements: numba matplotlib h5py scipy dominate visdom horovod libnccl2 libnccl-dev tqdm
 ## Usage
 ### Data Preprocessing
 Download ICVL dataset, and use matlab scripts to process the data (transfrom depth map into point cloud).
